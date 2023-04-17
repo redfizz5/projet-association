@@ -33,7 +33,7 @@ header{
 
 .console-container{
 
-  font-family: 'Kalam', cursive;
+  font-family: 'Manrope', sans-serif;
   color:white;
   text-align: left;
   text-transform: uppercase;
@@ -87,20 +87,20 @@ header{
 
 #page-informations .informations-infos h2{
 
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Manrope', sans-serif;
   color: #000000;
 }
 
 h1{
   color: #ffffff;
   letter-spacing: 5px;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Manrope', sans-serif;
   font-size: 50px;
 }
 
 h2{
   color: #ffffff;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Manrope', sans-serif;
   font-size: 30px;
 }
 
@@ -112,7 +112,7 @@ body {
 a{
   text-decoration: none;
   font-size: 30px;
-  font-family: 'Kalam', cursive;
+  font-family: 'Manrope', sans-serif;
 }
 
 .navtext{
